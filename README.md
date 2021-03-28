@@ -1,7 +1,7 @@
 # souvik-dataset-app-MERN-
 Its a MERN stack app where you can add datasets of various data and then can get the data by searching by the dataset number or category number.
 
-If you want to start the app yourself on your localmachine, you have to first do npm install inside both the root and the client folder. Then create a  .env file inside the root folder, make a .gitignore file and write node_modules inside it. Inside the .env file write your mongo atlas uri link. write it after you state ATLAS_URI, it should be like this ATLAS_URI=<<your mongo uri>>.
+If you want to start the app yourself on your localmachine, you have to first do npm install inside both the root and the client folder. Then create a  .env file inside the root folder, make a .gitignore file and write node_modules inside it. Inside the .env file write your mongo atlas uri link. write it after you state ATLAS_URI, it should be like this ATLAS_URI=your mongo uri.
 
 You can see the live app here
 https://souvik-dataset-app.herokuapp.com/
